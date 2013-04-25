@@ -1,5 +1,5 @@
 {
-    "name":         "knplabs/knp-gaufrette-bundle",
+    "name":         "socloz/knp-gaufrette-bundle",
     "type":         "symfony-bundle",
     "description":  "Allows to easily use the Gaufrette library in a Symfony project",
     "keywords":     ["file", "filesystem", "media", "abstraction"],
@@ -17,7 +17,7 @@
     ],
     "require":      {
         "symfony/framework-bundle": "2.*",
-        "knplabs/gaufrette":        "0.2.*@dev"
+        "socloz/gaufrette": "dev-socloz-master"
     },
     "require-dev": {
         "symfony/yaml": "2.*",
