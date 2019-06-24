@@ -20,8 +20,8 @@
         "socloz/gaufrette": "dev-socloz-master"
     },
     "require-dev": {
-        "symfony/yaml": "2.*",
-        "symfony/console": "2.*",
+        "symfony/yaml": "*",
+        "symfony/console": "*",
         "phpunit/phpunit": "3.7.*"
     },
     "autoload":     {
