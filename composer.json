@@ -16,7 +16,7 @@
         }
     ],
     "require":      {
-        "symfony/framework-bundle": "2.*",
+        "symfony/framework-bundle": "^4",
         "socloz/gaufrette": "dev-socloz-master"
     },
     "require-dev": {
